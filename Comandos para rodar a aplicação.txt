@@ -1,1 +1,5 @@
-Esse programa deve ser aberto pelo Google Colaboratory, a planilha tem que estar no mesmo drive de quem rodar o programa. Uma vez que a planilha será compartilhada para edição através do link anexado no desafio, essa questão pode ser facilmente contornada. Para rodar o programa, basta simplesmente apertar o botão "executar programa" ou o atalho Ctrl+Enter. Nenhum outro comando é requerido.
+O programa foi desenvolvido de duas formas: 
+1°: pelo Google Colaboratory, cuja planilha deve estar no mesmo drive de quem rodar o programa. Uma vez que a planilha será compartilhada para edição através do link anexado no desafio, essa questão pode ser facilmente contornada. Para rodar o programa, basta simplesmente apertar o botão "executar programa" ou o atalho Ctrl+Enter. Nenhum outro comando é requerido.
+2°: pelo programa Python 3.9. Ele pode ser rodado localmente na máquina usando o arquivo de credenciais .json. Não é necessário nenhum comando, apenas a execução do programa. 
+
+O Google Colab mostra a vantagem de integração com a planilha Google Sheet. 
